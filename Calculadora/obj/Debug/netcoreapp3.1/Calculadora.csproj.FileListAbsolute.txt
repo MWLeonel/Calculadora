@@ -1,0 +1,13 @@
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Igreja Pedreira\Desktop\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
