@@ -70,8 +70,26 @@ namespace Calculadora
                     Console.Write("Digite o 1ºNumero: ");
                     n1Valido = double.TryParse(Console.ReadLine(), out numero1);
 
+                    if (!n1Valido)
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine("Você digitou um valor invalido!");
+                        Console.WriteLine("Pressione ENTER para sair, e execute o programa novamente!");
+                        Console.ReadKey();
+                        Environment.Exit(-1);
+                    }
+
                     Console.Write("Digite o 2º Número: ");
                     n2Valido = double.TryParse(Console.ReadLine(), out numero2);
+
+                    if (!n2Valido)
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine("Você digitou um valor invalido!");
+                        Console.WriteLine("Pressione ENTER para sair, e execute o programa novamente!");
+                        Console.ReadKey();
+                        Environment.Exit(-1);
+                    }
 
                     switch (op)
                     {
