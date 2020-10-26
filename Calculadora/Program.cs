@@ -117,7 +117,7 @@ namespace Calculadora
                             Console.WriteLine($"Resultado da Divisão: {Math.Round(result4, 2)}");
                             break;
 
-                        case "p":
+                        case "P":
                             Console.WriteLine();
                             resultP = numero1 * numero2 / 100;
                             Console.WriteLine($"Resultado de Porcentagem: {Math.Round(resultP, 2)}");
